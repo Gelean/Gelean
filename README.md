@@ -1,6 +1,6 @@
 # Background
 
-* Personal website: www.elderek.com
+* Personal website: https://www.derekmelder.com
 * GitLab: https://gitlab.com/Gelean
 * LinkedIn: https://www.linkedin.com/in/derekmelder/
 
